@@ -1,0 +1,100 @@
+body{background-color: black;}
+h1, h3, h4{color: gold;}
+.link{font-size: 25px;}
+a{color: gold; white-space: 5px;padding: 7px;}
+.p1, .p2, .p3, .p4, .p5, .p6{color: white;font-size: 15px;}
+.p7{color: gold;text-align: center;}
+i{color: gold;}
+table, td, th{border: 3px solid white;border-collapse:collapse;}
+td{padding: 15px;color: white;}
+th{padding: 15px;color: gold;}
+ul{color: white;}
+ol{color: gold;}
+.package{background-color:black;border:solid gold 3px;width:330px;height:300px;float:left;}	
+.sub{color: gold; margin-left: 90%;}
+.ask{background-color:black;border:solid gold 3px;width:232px;height:300px;float:left;}
+textarea{background-color: black;color: white;height: 150px;width: 215px;}
+.q{color:white;}
+div.q:hover{background-color: gold;color:black;}
+.sub{color: gold;margin-left: 90%;}
+.textq{height: 200px;width: 550px;background-color: black;color: white;}
+a{color: gold;}
+#content{color:white; text-align: center;}
+hr{border: 1.5px solid gold; text-shadow: 3px white;}
+img{width: 350px;height: 300px;margin: 20px 20px 20px 20px;}
+.hg{width: 160px;height: 130px;margin:0px 0px 0px 0px;}
+.gal:hover{transform: scale(1.3,1.3);transition: 1s transform;}
+#last{color:gold; font-family:"lucida console"; text-align:center;}
+.home{color: gold;margin-left: 90%;}
+.contact-form{
+   width: 85%;
+   max-width: 600px;
+   position:absolute;
+   top:50%;
+   left:50%;
+   transform:translate(-50%,-50%);
+   padding:30px 40px;   
+   box-sizing:border-box;
+   border-radius:8px;
+   border:solid gold 3px;
+   text-align:center;
+   }
+.contactform{
+   width: 85%;
+   max-width: 600px;
+   position:center;
+   top:50%;
+   left:50%;
+   padding:30px 40px;   
+   box-sizing:border-box;
+   border-radius:8px;
+   border:solid gold 3px;
+   text-align:center;
+   }
+.txtb{
+   border:solid gold 2px;
+   margin:8px 0;     
+   padding:12px 18px;
+   border-radius:8px;
+   text-transform:uppercase;
+   text-align:left;
+   color:gold;
+   }
+.txt{
+   border-width: 500px;
+   border:solid gold 2px;
+   margin:8px 0;     
+   padding:12px 18px;
+   border-radius:8px;
+   text-transform:uppercase;
+   text-align:left;
+   color:gold;
+   }
+   
+label{
+   display:block;
+   
+   font-size:20;
+   }
+input,.cont{
+   border:none;
+   background:none;
+   outline:none;
+   font-size:18px;
+   margin-top:6px;
+   color: white;
+   font-size:15; 
+   }
+.cont{height:30px;width: 425px;}
+.btn{
+   display:inline-block;
+   background:black;
+   padding:14px 0;
+   color:gold;border-radius:4px;border:solid gold 2px;
+   text-transform:uppercase;
+   cursor:pointer;
+   margin-top:15px;
+   width:100%;
+   }
+.faqimg{width: 1500px;height: 400px;}
+.abimg{width: 1000px;height: 300px;}
